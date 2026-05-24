@@ -28,7 +28,7 @@ services:
       BOT_USERNAME:
         value: ShrutixMusicBot
       UPSTREAM_REPO:
-        value: https://github.com/NoxxOP/ShrutiMusic
+        value: https://github.com/SexyDark/ShrutiMusic.git
       STRING_SESSION:
         sync: false
       GIT_TOKEN:
